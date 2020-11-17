@@ -1,5 +1,5 @@
 # bmstu_WebLab
-Laboratories in Web course at BMSTU
+*Laboratories in Web course at BMSTU*
 
 **Цель работы, решаемая проблема/предоставляемая возможность**
 Создать веб-сайт сети кофеен
