@@ -16,7 +16,7 @@
 
 **Use-case диаграмма**
 
-![Image of UC-diagram](https://github.com/hamyy2912/bmstu_WebLab/blob/main/Use-case%20diagram.pdf)
+![Image of UC-diagram](https://github.com/hamyy2912/bmstu_WebLab/blob/main/Use-case%20diagram.jpg)
 
 **ER диаграмма**
 
