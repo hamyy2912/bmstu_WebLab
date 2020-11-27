@@ -21,4 +21,4 @@
 
 **ER диаграмма**
 
-![Image of ER-diagram](https://github.com/hamyy2912/bmstu_WebLab/blob/main/ER-Diagram.png)
+![Image of ER-diagram](https://github.com/hamyy2912/bmstu_WebLab/blob/main/ER-Diagram-1.jpg)
