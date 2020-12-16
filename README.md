@@ -1,5 +1,5 @@
 # bmstu_WebLab
-*Laboratories in Web course at BMSTU*
+*Project of Web course at BMSTU, 7th semester*
 
 **Цель работы, решаемая проблема/предоставляемая возможность**
 
